@@ -1,0 +1,47 @@
+material,country,stage,production_share_pct,governance_score,year,notes
+Lithium,Australia,Mining,47,1.65,2022,USGS 2023
+Lithium,Chile,Mining,26,0.92,2022,USGS 2023
+Lithium,China,Mining,15,0.21,2022,USGS 2023
+Lithium,Argentina,Mining,6,-0.35,2022,USGS 2023
+Lithium,Other,Mining,6,0.50,2022,USGS 2023
+Lithium,China,Processing,65,0.21,2022,IEA 2023
+Lithium,Chile,Processing,18,0.92,2022,IEA 2023
+Lithium,Argentina,Processing,8,-0.35,2022,IEA 2023
+Lithium,Australia,Processing,5,1.65,2022,IEA 2023
+Lithium,Other,Processing,4,0.50,2022,IEA 2023
+Cobalt,DRC,Mining,70,-1.50,2022,USGS 2023
+Cobalt,Russia,Mining,4,-0.81,2022,USGS 2023
+Cobalt,Australia,Mining,3,1.65,2022,USGS 2023
+Cobalt,Philippines,Mining,3,0.02,2022,USGS 2023
+Cobalt,Other,Mining,20,0.50,2022,USGS 2023
+Cobalt,China,Processing,74,0.21,2022,IEA 2023
+Cobalt,Finland,Processing,10,2.01,2022,IEA 2023
+Cobalt,Belgium,Processing,5,1.55,2022,IEA 2023
+Cobalt,Canada,Processing,4,1.72,2022,IEA 2023
+Cobalt,Other,Processing,7,0.50,2022,IEA 2023
+Nickel,Indonesia,Mining,37,-0.05,2022,USGS 2023
+Nickel,Philippines,Mining,13,0.02,2022,USGS 2023
+Nickel,Russia,Mining,9,-0.81,2022,USGS 2023
+Nickel,New Caledonia,Mining,7,1.30,2022,USGS 2023
+Nickel,Other,Mining,34,0.50,2022,USGS 2023
+Nickel,China,Processing,35,0.21,2022,IEA 2023
+Nickel,Indonesia,Processing,25,-0.05,2022,IEA 2023
+Nickel,Russia,Processing,17,-0.81,2022,IEA 2023
+Nickel,Japan,Processing,10,1.45,2022,IEA 2023
+Nickel,Other,Processing,13,0.50,2022,IEA 2023
+Manganese,South Africa,Mining,33,0.15,2022,USGS 2023
+Manganese,Gabon,Mining,20,-0.60,2022,USGS 2023
+Manganese,Australia,Mining,16,1.65,2022,USGS 2023
+Manganese,China,Mining,13,0.21,2022,USGS 2023
+Manganese,Other,Mining,18,0.50,2022,USGS 2023
+Manganese,China,Processing,93,0.21,2022,IEA 2023
+Manganese,South Africa,Processing,3,0.15,2022,IEA 2023
+Manganese,Other,Processing,4,0.50,2022,IEA 2023
+Graphite,China,Mining,65,0.21,2022,USGS 2023
+Graphite,Mozambique,Mining,13,-0.80,2022,USGS 2023
+Graphite,Madagascar,Mining,6,-0.75,2022,USGS 2023
+Graphite,Brazil,Mining,5,0.28,2022,USGS 2023
+Graphite,Other,Mining,11,0.50,2022,USGS 2023
+Graphite,China,Processing,90,0.21,2022,IEA 2023
+Graphite,Japan,Processing,5,1.45,2022,IEA 2023
+Graphite,Other,Processing,5,0.50,2022,IEA 2023
