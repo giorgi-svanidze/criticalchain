@@ -16,10 +16,10 @@ CriticalChain maps production concentration, identifies geopolitical chokepoints
 ## Screenshots
 
 ### Home dashboard
-![CriticalChain home dashboard](assets/screenshots/home.png)
+![CriticalChain home dashboard](assets/Screenshots/home.png)
 
 ### Scenario simulator
-![CriticalChain scenario simulator](assets/screenshots/scenario_simulator.png)
+![CriticalChain scenario simulator](assets/Screenshots/scenario_simulator.png)
 
 
 
