@@ -9,7 +9,7 @@ CriticalChain maps production concentration, identifies geopolitical chokepoints
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-MVP%20Live-brightgreen)]()
 
-> **Live demo → [criticalchain.streamlit.app](https://criticalchain.streamlit.app)**
+> **Live demo → [criticalchain.streamlit.app](https://giorgi-svanidze-criticalchain-appstreamlit-app-qgpwfw.streamlit.app/)**
 
 ---
 
